@@ -1,6 +1,6 @@
 <div align="center">
 
-# Woo Sangbum (우상범)
+# Woo Sangbum
 
 **Robotics & Autonomous Driving Engineer**
 
